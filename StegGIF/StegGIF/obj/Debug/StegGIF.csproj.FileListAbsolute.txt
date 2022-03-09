@@ -1,0 +1,10 @@
+C:\Users\megas\source\repos\StegGIF\StegGIF\bin\Debug\StegGIF.exe.config
+C:\Users\megas\source\repos\StegGIF\StegGIF\bin\Debug\StegGIF.exe
+C:\Users\megas\source\repos\StegGIF\StegGIF\bin\Debug\StegGIF.pdb
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.Form1.resources
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.Properties.Resources.resources
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.csproj.GenerateResource.cache
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.csproj.CoreCompileInputs.cache
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.exe
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.pdb
+C:\Users\megas\source\repos\StegGIF\StegGIF\obj\Debug\StegGIF.csprojAssemblyReference.cache
